@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Algoritmo que determina la suma y promedio de los dígitos de un número ingresado*/
+
 int main() 
 {
     /*Definición de variables*/
