@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Algortimo que imprime números del 1 al 10, usando un bucle que va desde 10 a 1 */
+
 int main ()
 {
     /*Definición de variables*/
