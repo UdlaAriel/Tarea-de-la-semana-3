@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+/*Algoritmo que determina el promedio de los n primeros múltiplos de 3*/
+
 int main ()
 {
     /*Definición de variables*/
