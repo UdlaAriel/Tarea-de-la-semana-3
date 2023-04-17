@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Algoritmo que imrpime los números comprendidos entre 1 y 100*/
+
 int main ()
 {
     /*Definici´pon*/
