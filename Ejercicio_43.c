@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Algoritmo que determina la cantidad de números de la serie de fibonacci entre 1000 y 2000 */
+
 int main ()
 {   
     /*Definición de variables*/
